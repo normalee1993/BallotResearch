@@ -1,0 +1,7 @@
+{
+  "name": "CivicChoice: Unbiased Voter Guide",
+  "description": "A neutral, location-based PWA helping US voters research their ballot and candidates efficiently.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
